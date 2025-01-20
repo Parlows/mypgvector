@@ -1,0 +1,4 @@
+comment = 'vector data type'
+default_version = '1.0'
+module_pathname = '$libdir/pgsurv'
+relocatable = true
